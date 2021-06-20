@@ -1,3 +1,6 @@
+![Screenshot (220)](https://user-images.githubusercontent.com/67797247/122674644-1d384200-d1a4-11eb-8b80-8ca4f52cc14d.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/67797247/122674645-1dd0d880-d1a4-11eb-987f-95551e81b358.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/67797247/122674646-1dd0d880-d1a4-11eb-9177-9238f76213fe.png)
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
